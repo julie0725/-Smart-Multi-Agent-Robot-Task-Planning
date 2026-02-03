@@ -1,6 +1,6 @@
 Wash the fork and put it in the bowl
 
-GPT Version: gpt-3.5-turbo
+GPT Version: gpt-4
 
 Floor Plan: 21
 
