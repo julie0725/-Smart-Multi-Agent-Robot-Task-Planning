@@ -1,0 +1,1 @@
+{"task": "Microwave a plate containg a egg and a tomato", "robot list" : [23,24,25,26], "object_states" : [{"name": "Plate", "contains": ["Egg","Tomato"], "state": null}], "trans":1, "max_trans":2}
